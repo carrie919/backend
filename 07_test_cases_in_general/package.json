@@ -1,0 +1,19 @@
+{
+  "name": "07_test_cases",
+  "version": "1.0.0",
+  "description": "test case",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "avis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.3.2"
+  }
+}

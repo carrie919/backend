@@ -1,0 +1,23 @@
+{
+  "name": "task_01",
+  "version": "1.0.0",
+  "description": "register user or update information of already existing user",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "avis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.4",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.3.2"
+  }
+}

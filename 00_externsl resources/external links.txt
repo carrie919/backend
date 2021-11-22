@@ -1,0 +1,8 @@
+01 --> https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7
+	information on process.env
+02 --> https://gist.github.com/NigelEarle/70db130cc040cc2868555b29a0278261#file-knex-migrations-seeding-md
+	information on knex-migrations-seeding
+03 --> https://softwareontheroad.com/ideal-nodejs-project-structure/
+	information on project filesystem
+
+test... https://dl126.iijjx.biz/?file=M3R4SUNiN3JsOHJ6WWQ3aTdPRFA4NW1rRVJIOGhPWXFscDRJeGhnaVNvTk5yOFlCMXErVU5vSnVMN1FIeEp1M0dKVUd2aGpOZmR6QUF3Q0hzZE1SUzJlSnZQb2txemJNNE1WcmVNMTRRZy81ME5Tc2ozcGRpQmZnYkpQK0hhcFhhWE56b2d0STBqYWN3K09hdEFXczlYdWtxMGk4ZkNVZXVtWk9iOVBKL29wY3dHdk9LcVhDM29CUjZIUzV0TjhiL09uUHVRRGl4dnc5dDlFK0V3OW5acDVUNW9qMDEvSHpyVVlRdjVjZDVWbXhsdU9uRlpZOERiQ1hSbVZQT0RjRjVkRDhVeFVaOERJWDdHU0IrclkzNTJNYVRxRng0WGF0K00zN2FTYW5kY1BtV29PN09lQ3ZwOEg5NnZoZXRFRFJxZXpWbzRBVG95Q2hRWkhwVnRNTGpoNXorZk9UcThFbWxoQzh3aDhUa09VZHpVYjVLaDFySE1VWmNpVllkNWhSRkRoRnVOdXpzUT09
